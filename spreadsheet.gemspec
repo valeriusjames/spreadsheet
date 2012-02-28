@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "spreadsheet"
-  s.version     = "0.6.5.9" # Spreadsheet::VERSION
+  s.version     = "0.6.6.0" # Spreadsheet::VERSION
   s.authors     = ["James Whitfield"]
   s.email       = ["jwhitfield@zeevex.com"]
   
